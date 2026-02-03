@@ -13,7 +13,7 @@ Mining generates massive telemetry data where analytics saves lives and reduces 
 
 ---
 
-## 🏎️ Vehicle Inspection & IoT (Opus Inspection)
+## 🏎️ Vehicle Inspection & IoT
 In the inspection industry, data ensures environmental compliance and road safety.
 * **Use Case:** **Anomaly Detection in Emissions.** Identifying fraudulent tests by analyzing sensor patterns that deviate from engine profiles.
 * **Use Case:** **Equipment Calibration Trends.** Predicting when gas analyzers or dynamometers will require maintenance.
