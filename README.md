@@ -56,7 +56,7 @@ Data drives risk assessment, fraud prevention, and customer retention.
 
 ---
 
-## 🛠️ My Technical Approach
+## 🛠️ Technical Approach
 No matter the industry, I bridge the gap between **Domain Knowledge** and **Data Science**:
 1.  **Data Extraction:** SQL, IoT Telemetry, and API integration.
 2.  **Processing:** Time-series analysis and cleaning using **Python (Pandas/NumPy)**.
