@@ -261,3 +261,28 @@ What is the main message of the book?
 Answer
 That advanced data analytics enables digital transformation and long-term mining sustainability.
 📄 Pages: 198–203
+
+```mermaid
+graph TD
+
+A[Data Analytics in the Mining Industry]
+
+%% Digital Transformation
+A --> B[Digital Transformation]
+
+B --> B1[Data]
+B1 --> B1a[Geological Data]
+B1 --> B1b[Operational Data]
+B1 --> B1c[Geotechnical Data]
+B1 --> B1d[Mineral Processing Data]
+
+B --> B2[Connectivity]
+B2 --> B2a[Internet of Things]
+B2 --> B2b[Wireless Networks]
+B2 --> B2c[Integrated Platforms]
+B2 --> B2d[Remote Operation Centers]
+
+B --> B3[Decision-Making]
+B3 --> B3a[Data-Driven Decisions]
+B3 --> B3b[Optimization Algorithms]
+B3 --> B3c[Decision Support Systems]
